@@ -1,2 +1,2 @@
 # hello-world
-Its not been such a good weekend
+Its not been a good weekend
